@@ -1,3 +1,5 @@
+LACA2 változtatott
+
 Tervezési minták: Képesnek kell lenned leírni mind a 24 mintát a "Négyek
 Bandájának" (GOF) könyvéből, és tudnod kell használni a POSA-könyvekben
 (Pattern-Oriented Software Architecture, mintaközpontú szoftverarchitektúra)
