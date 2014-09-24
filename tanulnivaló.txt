@@ -1,0 +1,18 @@
+Tervezési minták: Képesnek kell lenned leírni mind a 24 mintát a "Négyek
+Bandájának" (GOF) könyvéből, és tudnod kell használni a POSA-könyvekben
+(Pattern-Oriented Software Architecture, mintaközpontú szoftverarchitektúra)
+szereplő minták többségét.
+• Tervezési elvek: Ismerned kell a SOLID-elveket, és kellőképpen értened kell
+annak alkotóelemeit
+• Módszertanok: Tisztában kell lenned az XP, a Serum, a Lean, a Kanban,
+a WaterfaU (Vízesés), a Structured Analysis (Strukturált analízis) és a Stmctured
+Design (Strukturált tervezés) mibenlétével.
+• Megközelítések: Gyakorolnod kell a tesztvezérelt fejlesztést, az objektumközpontú
+tervezést, a strukturált programozást, a fokozatos beépítést és a páros
+programozást.
+• Kiegészítő ismeretek: Tudnod kell használni az UML-t, a DFD-ket, a szerkezeti
+diagramokat, a Petri-hálókat, az állapotátmenet-diagramokat és -táblákat,
+a folyamatábrákat és a döntési táblákat.
+
+FIT N ESSE, a Selenium, a RobotFX, vagy a Cucumber.
+
